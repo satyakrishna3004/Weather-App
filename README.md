@@ -56,7 +56,6 @@ If later you add:
 - Authentication
 - Multi-location sync
 - Firebase integration  
-No rewrite needed — just extend architecture.
 
 ---
 
@@ -103,7 +102,6 @@ Each layer communicates only with the immediate next layer (dependency rule).
 
 ## 📸 Screenshots
 
-> *(Replace these with your actual screenshots once ready)*
 
 | Screen | Placeholder |
 |---------|----------------|
